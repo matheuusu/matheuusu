@@ -1,16 +1,26 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<!--
-**matheuusu/matheuusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  👋 Olá, Pessoal! Eu me chamo Matheus Silva, e sou um estudante com foco em <strong>Desenvolvimento Para Web</strong>.<br>
+  
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  🦄 Habilidades: <strong>HTML, CSS, Javascript, Nodejs, Reactjs.</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💼 Ferramentas: <strong>VSCode, Figma, Git e GitHub.</strong>
+</p>
+
+<p align="left">
+  💌 Que tal trocarmos uma ideia? ⤵️
+</p>
+
+<p align="left">
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-silva-143045193/" /></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/_matheuusu/"/></a>
+</p>  
