@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  👋 Olá, Pessoal! Eu me chamo Matheus Silva, e sou um estudante com foco em <strong>Desenvolvimento Para Web</strong>.<br>
+  👋 Olá, Pessoal! Me chamo Matheus Silva, e sou um estudante com foco em <strong>Desenvolvimento Para Web</strong>.<br>
   
 </p>
 
