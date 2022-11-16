@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, Javascript, Nodejs, Reactjs.</strong>
+  🦄 Habilidades: <strong>HTML, CSS, Javascript, Nodejs.</strong>
 </p>
 
 <p align="left">
